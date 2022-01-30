@@ -55,7 +55,7 @@
 # My BFF
 <a href="https://github.com/Pain77"><img src="https://github.com/Pain77.png?size=100" width="100" height="100"></a> 
 
-[P-A-I-N](https://github.com/Pain77) 
+▹ [P-A-I-N](https://github.com/Pain77) ◃ 
 
 
 # My Waifu (Arknights)
