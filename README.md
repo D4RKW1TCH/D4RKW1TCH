@@ -25,7 +25,7 @@
  <br/>
  <br/>
  
-### My stats
+### My Stats
   <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D4RKW1TCH&show_icons=true&locale=en&layout=compact&theme=prussian" alt="D4RKW1TCH" /></div>
 <br/>
 <br/>
